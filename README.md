@@ -34,13 +34,13 @@ I really liked [Linux Survival (4 modules)](https://linuxsurvival.com/). The inf
 To tell you the truth, To tell you the truth, I'm starting to love the command line and Linux OS. Unfortunately, my computer runs on Windows, but it seems to me that I'll switch to Linux in the near future.<br>
 My knowledge in this area was small, but thanks to this course, it began to expand.<br>
 I learned new commands for myself, such as:<br>
-- `chmod`  change file permission
-- `finger`  view information about users
-- `lpr, lpq, lprm`  Send to Printer to Print and / or Cancel
-- `grep`  search for a word in the text
-- `ps`  see running processes
-- `kill` kill running process
-- `kill -9`  kill immediately running process)<br>
+> - `chmod`  change file permission
+> - `finger`  view information about users
+> - `lpr, lpq, lprm`  Send to Printer to Print and / or Cancel
+> - `grep`  search for a word in the text
+> - `ps`  see running processes
+> - `kill` kill running process
+> - `kill -9`  kill immediately running process)<br>
 
 <details>
 <summary>Linux Survival is done (<b>screenshots</b>)</summary>
