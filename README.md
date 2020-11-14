@@ -3,6 +3,7 @@
 - [Git Basics](#git)
 - [Linux CLI, and HTTP](#linux_http)
 - [Git Collaboration](#git_collaboration)
+- [Intro to HTML and CSS](#html_scc)
 
 <hr>
 
@@ -71,6 +72,33 @@ I liked [this topic](https://classroom.udacity.com/courses/ud456) of this course
   
   ![git_collaboration_screenshot-2](task_git_collaboration/github_collaboration_learngitbranching-1.jpg)<br><br>
   ![git_collaboration_screenshot-3](task_git_collaboration/github_collaboration_learngitbranching-2.jpg)<br> 
+</details>
+
+<hr>
+
+## <a name="html_scc">4. Intro to HTML and CSS</a>
+Before learning on this course, I already knew a little HTML and CSS, but after learning at [Udasity](https://www.udacity.com/course/intro-to-html-and-css--ud001) and [Codecademy](https://www.codecademy.com/catalog/language/html-css) I repeated the material, learned in more detail what I didn't understand, and I also learned new things for myself such as CSS Grid.
+
+<details>
+<summary>Intro to HTML & CSS (<b>screenshots</b>)</summary>
+  
+  ![html_css_screenshot-1](task_html_css_intro/html_css_udacity-1.jpg)<br><br>
+  ![html_css_screenshot-2](task_html_css_intro/html_css_udacity-2.jpg)<br>
+</details>
+<details>
+<summary>Learn HTML (<b>screenshots</b>)</summary>
+  
+  ![html_screenshot-1](task_html_css_intro/html_codecademy-1.jpg)<br><br>
+  ![html_screenshot-2](task_html_css_intro/html_codecademy-2.jpg)<br><br>
+  ![html_screenshot-3](task_html_css_intro/html_codecademy-3.jpg)<br>
+</details>
+<details>
+<summary>Learn CSS (<b>screenshots</b>)</summary>
+
+  ![css_screenshot-1](task_html_css_intro/css_codecademy-1.jpg)<br><br>
+  ![css_screenshot-2](task_html_css_intro/css_codecademy-2.jpg)<br><br>
+  ![css_screenshot-3](task_html_css_intro/css_codecademy-3.jpg)<br><br>
+  ![css_screenshot-4](task_html_css_intro/css_codecademy-4.jpg)<br>
 </details>
 
 <hr>
