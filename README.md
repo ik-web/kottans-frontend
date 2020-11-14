@@ -13,13 +13,13 @@ I already knew a little about git. The [Udacity course](https://www.udacity.com/
 I keep to myself [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/).
 
 <details>
-<summary>Udacity course is done (<b>screenshots</b>)</summary>
+<summary>Version Control with Git (<b>screenshots</b>)</summary>
   
   ![screenshot-1](git_basics/git_udacity-1.jpg)<br><br>
   ![screenshot-2](git_basics/git_udacity-2.jpg)<br> 
 </details>
 <details>
-<summary>The tasks on learngitbranching.js.org are done (<b>screenshots</b>)</summary>
+<summary>Learngitbranching.js.org (<b>screenshots</b>)</summary>
   
   ![git_screenshot-1](git_basics/main-1.jpg)<br><br>
   ![git_screenshot-2](git_basics/main-2.jpg)<br><br>
@@ -44,7 +44,7 @@ I learned new commands for myself, such as:<br>
 > - `kill -9`  kill immediately running process)<br>
 
 <details>
-<summary>Linux Survival is done (<b>screenshots</b>)</summary>
+<summary>Linux Survival (4 modules) (<b>screenshots</b>)</summary>
   
   ![linux_screenshot-1](task_linux_cli/linux-1.jpg)<br><br>
   ![linux_screenshot-2](task_linux_cli/linux-2.jpg)<br><br>
@@ -63,12 +63,12 @@ HTTP protocol: [part-1](https://code.tutsplus.com/tutorials/http-the-protocol-ev
 I liked [this topic](https://classroom.udacity.com/courses/ud456) of this course. I learned how collaborate in git with other developers. I also learned to create forks and pull requests. I figured out in more detail the `rebase` and `cherry-pick`. I also repeated what I already knew, which I also find very useful.
 
 <details>
-<summary>Udacity course is done (<b>screenshots</b>)</summary>
+<summary>GitHub & Collaboration (<b>screenshots</b>)</summary>
   
   ![git_collaboration_screenshot-1](task_git_collaboration/github_collaboration_udacity.jpg)<br>
 </details>
 <details>
-<summary>The tasks on learngitbranching.js.org are done (<b>screenshots</b>)</summary>
+<summary>Learngitbranching.js.org (<b>screenshots</b>)</summary>
   
   ![git_collaboration_screenshot-2](task_git_collaboration/github_collaboration_learngitbranching-1.jpg)<br><br>
   ![git_collaboration_screenshot-3](task_git_collaboration/github_collaboration_learngitbranching-2.jpg)<br> 
