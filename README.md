@@ -105,3 +105,19 @@ Before learning on this course, I already knew a little HTML and CSS, but after 
 <hr>
 
 ## <a name="responsive">Responsive Web Design</a>
+I liked the [Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) on Udacity. I think I'll come back to this material, repetition will be useful.<br><br>
+I already knew a little about CSS Flexbox. I liked [Flexbox Froggy](http://flexboxfroggy.com/), it is easier to understand how CSS Flexbox works. When I played this game, I remembered properties like `align-content`, `flex-flow`, `row-reverse`, and `column-reverse`.
+
+<details>
+<summary>Flexbox Froggy (<b>screenshots</b>)</summary>
+  
+  ![froggy_screenshot](task_responsive_web_design/froggy.jpg)<br>
+</details>
+<details>
+<summary>Responsive Web Design Fundamentals (<b>screenshots</b>)</summary>
+  
+  ![responsive_screenshot-1](task_responsive_web_design/responsive_udacity-1.jpg)<br><br>
+  ![responsive_screenshot-2](task_responsive_web_design/responsive_udacity-2.jpg)<br> 
+</details>
+
+<hr>
