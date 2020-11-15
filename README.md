@@ -4,6 +4,7 @@
 - [Linux CLI, and HTTP](#linux_http)
 - [Git Collaboration](#git_collaboration)
 - [Intro to HTML and CSS](#html_scc)
+- [Responsive Web Design](#responsive)
 
 <hr>
 
@@ -102,3 +103,5 @@ Before learning on this course, I already knew a little HTML and CSS, but after 
 </details>
 
 <hr>
+
+## <a name="responsive">5. Responsive Web Design</a>
