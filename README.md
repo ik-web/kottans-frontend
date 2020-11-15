@@ -1,14 +1,14 @@
 # kottans-frontend
 #### My progress in kottans course:
-- [Git Basics](#git)
-- [Linux CLI, and HTTP](#linux_http)
-- [Git Collaboration](#git_collaboration)
-- [Intro to HTML and CSS](#html_scc)
-- [Responsive Web Design](#responsive)
+- [1.Git Basics](#git)
+- [2.Linux CLI, and HTTP](#linux_http)
+- [3.Git Collaboration](#git_collaboration)
+- [4.Intro to HTML and CSS](#html_scc)
+- [5.Responsive Web Design](#responsive)
 
 <hr>
 
-## <a name="git">1. Git Basics</a>
+## <a name="git">Git Basics</a>
 I already knew a little about git. The [Udacity course](https://www.udacity.com/course/version-control-with-git--ud123) was very interesting, I learned about such commands as: `diff`, `reset`, `fetch`, `rebase`, `cherry-pick`. And the tasks in [learngitbranching.js.org](https://learngitbranching.js.org/) helped a lot to get into working with branches. I learned this topic with pleasure, but I will still come back to it to refresh my knowledge of git.
 
 I keep to myself [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/).
@@ -29,7 +29,7 @@ I keep to myself [Udacity Git Commit Message Style Guide](https://udacity.github
 
 <hr>
 
-## <a name="linux_http">2. Linux CLI, and HTTP</a>
+## <a name="linux_http">Linux CLI, and HTTP</a>
 
 ### Linux CLI
 I really liked [Linux Survival (4 modules)](https://linuxsurvival.com/). The information was interesting and easy to understand.<br>
@@ -60,7 +60,7 @@ HTTP protocol: [part-1](https://code.tutsplus.com/tutorials/http-the-protocol-ev
 
 <hr>
 
-## <a name="git_collaboration">3. Git Collaboration</a> 
+## <a name="git_collaboration">Git Collaboration</a> 
 I liked [this topic](https://classroom.udacity.com/courses/ud456) of this course. I learned how collaborate in git with other developers. I also learned to create forks and pull requests. I figured out in more detail the `rebase` and `cherry-pick`. I also repeated what I already knew, which I also find very useful.
 
 <details>
@@ -77,7 +77,7 @@ I liked [this topic](https://classroom.udacity.com/courses/ud456) of this course
 
 <hr>
 
-## <a name="html_scc">4. Intro to HTML and CSS</a>
+## <a name="html_scc">Intro to HTML and CSS</a>
 Before learning on this course, I already knew a little HTML and CSS, but after learning at [Udasity](https://www.udacity.com/course/intro-to-html-and-css--ud001) and [Codecademy](https://www.codecademy.com/catalog/language/html-css) I repeated the material, learned in more detail what I didn't understand, and I also learned new things for myself such as CSS Grid.
 
 <details>
@@ -104,4 +104,4 @@ Before learning on this course, I already knew a little HTML and CSS, but after 
 
 <hr>
 
-## <a name="responsive">5. Responsive Web Design</a>
+## <a name="responsive">Responsive Web Design</a>
