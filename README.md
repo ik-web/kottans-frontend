@@ -5,6 +5,7 @@
 - [3. Git Collaboration](#git_collaboration)
 - [4. Intro to HTML and CSS](#html_scc)
 - [5. Responsive Web Design](#responsive)
+- [6. JavaScript Basics](#js-basics)
 
 <hr>
 
@@ -118,6 +119,29 @@ I already knew a little about CSS Flexbox. I liked [Flexbox Froggy](http://flexb
   
   ![responsive_screenshot-1](task_responsive_web_design/responsive_udacity-1.jpg)<br><br>
   ![responsive_screenshot-2](task_responsive_web_design/responsive_udacity-2.jpg)<br> 
+</details>
+
+<hr>
+
+## <a name="js-basics">JavaScript Basics</a>
+This topic was not easy for me. The material on [Udacity](https://classroom.udacity.com/courses/ud803) was useful, but I liked [freeCodeCamp](https://www.freecodecamp.org/learn/) better, there are many practical exercises.<br>
+Most liked the sections:
+- [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+- [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+- [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+<details>
+<summary>Intro to JS (<b>screenshots</b>)</summary>
+  
+  ![js_screenshot-1](task_js_basics/js-udacity-1.jpg)<br><br>
+  ![js_screenshot-2](task_js_basics/js-udacity-2.jpg)<br><br>
+  ![js_screenshot-3](task_js_basics/js-udacity-3.jpg)<br>
+</details>
+<details>
+<summary>JS on freeCodeCamp (<b>screenshots</b>)</summary>
+
+  ![js_screenshot-4](task_js_basics/js-fcc-1.jpg)<br><br>
+  ![js_screenshot-5](task_js_basics/js-fcc-2.jpg)<br>
 </details>
 
 <hr>
