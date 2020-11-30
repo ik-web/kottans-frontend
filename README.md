@@ -5,7 +5,8 @@
 - [3. Git Collaboration](#git_collaboration)
 - [4. Intro to HTML and CSS](#html_scc)
 - [5. Responsive Web Design](#responsive)
-- [6. JavaScript Basics](#js-basics)
+- [6. HTML & CSS Practice](#popup) 
+- [7. JavaScript Basics](#js-basics)
 
 <hr>
 
@@ -119,6 +120,19 @@ I already knew a little about CSS Flexbox. I liked [Flexbox Froggy](http://flexb
   
   ![responsive_screenshot-1](task_responsive_web_design/responsive_udacity-1.jpg)<br><br>
   ![responsive_screenshot-2](task_responsive_web_design/responsive_udacity-2.jpg)<br> 
+</details>
+HTML & CSS Practice
+<hr>
+
+## <a name="popup">HTML & CSS practice: Hooli-style Popup</a>
+It was an interesting task, I had not yet faced such a task. I was pleased that many different SCC properties had to be used in this task. A very interesting use of a checkbox.
+
+- [Demo](https://ik-web.github.io/html-css-popup/)
+
+<details>
+<summary>Hooli-style Popup (<b>screenshots</b>)</summary>
+  
+  ![popup_screenshot](task_html_css_practice/popup.jpg)<br>
 </details>
 
 <hr>
