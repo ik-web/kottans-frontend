@@ -7,6 +7,7 @@
 - [5. Responsive Web Design](#responsive)
 - [6. HTML & CSS Practice](#popup) 
 - [7. JavaScript Basics](#js-basics)
+- [8. DOM](#dom)
 
 <hr>
 
@@ -127,13 +128,13 @@ HTML & CSS Practice
 ## <a name="popup">HTML & CSS practice: Hooli-style Popup</a>
 It was an interesting task, I had not yet faced such a task. I was pleased that many different SCC properties had to be used in this task. A very interesting use of a checkbox.
 
-- [Demo](https://ik-web.github.io/html-css-popup/)
-
 <details>
 <summary>Hooli-style Popup (<b>screenshots</b>)</summary>
   
   ![popup_screenshot](task_html_css_practice/popup.jpg)<br>
 </details>
+
+>[Demo](https://ik-web.github.io/html-css-popup/)
 
 <hr>
 
@@ -157,5 +158,25 @@ Most liked the sections:
   ![js_screenshot-4](task_js_basics/js-fcc-1.jpg)<br><br>
   ![js_screenshot-5](task_js_basics/js-fcc-2.jpg)<br>
 </details>
+
+<hr>
+
+## <a name="dom">DOM</a>
+This was a very interesting topic. I learned a lot of new information. I made myself some notes on this topic, because it is impossible to remember everything in a short time. But now that I have an understanding of the DOM in Javascript, I can easily brush up on my knowledge by referring to the MDN documentation or another resource.
+
+<details>
+<summary>JavaScript and the DOM (<b>screenshots</b>)</summary>
+  
+  ![dom_screenshot-1](task_js_dom/js-dom-udacity-1.jpg)<br><br>
+  ![dom_screenshot-2](task_js_dom/js-dom-udacity-2.jpg)<br>
+</details>
+<details>
+<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshots</b>)</summary>
+  
+  ![dom_screenshot-3](task_js_dom/js-dom-fcc.jpg)<br> 
+</details>
+
+**Practical task:**
+>[Demo]()
 
 <hr>
