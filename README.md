@@ -8,6 +8,7 @@
 - [6. HTML & CSS Practice](#popup) 
 - [7. JavaScript Basics](#js-basics)
 - [8. DOM](#dom)
+- [9. Building a Tiny JS World (pre-OOP)](#pre-oop)
 
 <hr>
 
@@ -162,7 +163,7 @@ Most liked the sections:
 <hr>
 
 ## <a name="dom">DOM</a>
-This was a very interesting topic. I learned a lot of new information. I made myself some notes on this topic, because it is impossible to remember everything in a short time. But now that I have an understanding of the DOM in Javascript, I can easily brush up on my knowledge by referring to the MDN documentation or another resource.
+This was a very interesting topic. I learned a lot of new information. I made myself some notes on this topic, because it is impossible to remember everything in a short time. But now that I have an understanding of the [DOM](https://classroom.udacity.com/courses/ud117) in Javascript, I can easily brush up on my knowledge by referring to the [MDN](https://developer.mozilla.org/en-US/) documentation or another resource.
 
 <details>
 <summary>JavaScript and the DOM (<b>screenshots</b>)</summary>
@@ -178,5 +179,13 @@ This was a very interesting topic. I learned a lot of new information. I made my
 
 **Practical task:**
 >[Demo]()
+
+<hr>
+
+## <a name="pre-oop">Building a Tiny JS World (pre-OOP)</a>
+[This task](https://github.com/ik-web/a-tiny-JS-world) wasn't difficult, but it is also an experience. Attached to this topic is material on [Copying Objects in JavaScript](https://www.digitalocean.com/community/tutorials/copying-objects-in-javascript) - this is also useful information for me.
+
+**Practical task:**
+>[A Tiny JS World](https://ik-web.github.io/a-tiny-JS-world/)
 
 <hr>
