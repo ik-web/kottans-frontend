@@ -1,14 +1,14 @@
 # kottans-frontend
 #### My progress in kottans course:
-[1. Git Basics](#git)
-[2. Linux CLI, and HTTP](#linux_http)
-[3. Git Collaboration](#git_collaboration)
-[4. Intro to HTML and CSS](#html_scc)
-[5. Responsive Web Design](#responsive)
-[6. HTML & CSS Practice](#popup) 
-[7. JavaScript Basics](#js-basics)
-[8. DOM](#dom)
-[9. Building a Tiny JS World (pre-OOP)](#pre-oop)
+>[1. Git Basics](#git)
+>[2. Linux CLI, and HTTP](#linux_http)
+>[3. Git Collaboration](#git_collaboration)
+>[4. Intro to HTML and CSS](#html_scc)
+>[5. Responsive Web Design](#responsive)
+>[6. HTML & CSS Practice](#popup) 
+>[7. JavaScript Basics](#js-basics)
+>[8. DOM](#dom)
+>[9. Building a Tiny JS World (pre-OOP)](#pre-oop)
 
 <hr>
 
@@ -177,8 +177,8 @@ This was a very interesting topic. I learned a lot of new information. I made my
   ![dom_screenshot-3](task_js_dom/js-dom-fcc.jpg)<br> 
 </details>
 
-**Practical task:**
-It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.<br><br>
+**Practical task:**<br>
+It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.<br>
 >[Demo](https://ik-web.github.io/js-dom/)
 
 <hr>
