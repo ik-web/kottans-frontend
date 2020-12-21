@@ -1,14 +1,14 @@
 # kottans-frontend
 #### My progress in kottans course:
->[1. Git Basics](#git)
->[2. Linux CLI, and HTTP](#linux_http)
->[3. Git Collaboration](#git_collaboration)
->[4. Intro to HTML and CSS](#html_scc)
->[5. Responsive Web Design](#responsive)
->[6. HTML & CSS Practice](#popup) 
->[7. JavaScript Basics](#js-basics)
->[8. DOM](#dom)
->[9. Building a Tiny JS World (pre-OOP)](#pre-oop)
+- [1. Git Basics](#git)
+- [2. Linux CLI, and HTTP](#linux_http)
+- [3. Git Collaboration](#git_collaboration)
+- [4. Intro to HTML and CSS](#html_scc)
+- [5. Responsive Web Design](#responsive)
+- [6. HTML & CSS Practice](#popup) 
+- [7. JavaScript Basics](#js-basics)
+- [8. DOM](#dom)
+- [9. Building a Tiny JS World (pre-OOP)](#pre-oop)
 
 <hr>
 
