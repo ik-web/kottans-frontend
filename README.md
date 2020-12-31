@@ -212,9 +212,7 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 **Practical task:**<br>
 <br>
 
->[Demo](https://ik-web.github.io/game-frogger/)
-<br>
->[Code base](https://github.com/ik-web/game-frogger)
+>[Demo](https://ik-web.github.io/game-frogger/) | [Code-base](https://github.com/ik-web/game-frogger)
 
 <hr>
 
