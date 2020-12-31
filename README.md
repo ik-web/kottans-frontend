@@ -9,6 +9,7 @@
 - [7. JavaScript Basics](#js-basics)
 - [8. DOM](#dom)
 - [9. Building a Tiny JS World (pre-OOP)](#pre-oop)
+- [10. Object Oriented JS](#oop)
 
 <hr>
 
@@ -188,5 +189,29 @@ It was a very interesting practical task for me. I am also very grateful to the 
 
 **Practical task:**
 >[A Tiny JS World](https://ik-web.github.io/a-tiny-JS-world/)
+
+<hr>
+
+## <a name="oop">Object Oriented JS</a>
+The topic is still quite difficult for me, but thanks to [this course](https://classroom.udacity.com/courses/ud015) I got to know it better, learned a lot, my interest in javascript has grown even more))
+<details>
+<summary>Udacity Object Oriented JS (<b>screenshots</b>)</summary>
+  
+  ![js_screenshot-1](task_js_oop/oop-js-1.jpg)<br><br>
+  ![js_screenshot-2](task_js_oop/oop-js-2.jpg)<br><br>
+  ![js_screenshot-2](task_js_oop/oop-js-3.jpg)<br><br>
+  ![js_screenshot-3](task_js_oop/oop-js-4.jpg)<br>
+</details>
+<details>
+<summary>Codewars (<b>screenshots</b>)</summary>
+  
+  ![js_screenshot-3](task_js_oop/codewars.jpg)<br>
+</details>
+
+**Practical task:**<br>
+<br>
+
+>[Demo](https://ik-web.github.io/game-frogger/)
+>[Code base](https://github.com/ik-web/game-frogger)
 
 <hr>
