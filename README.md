@@ -10,6 +10,7 @@
 - [8. DOM](#dom)
 - [9. Building a Tiny JS World (pre-OOP)](#pre-oop)
 - [10. Object Oriented JS](#oop)
+- [11. OOP exercise](#post-oop)
 
 <hr>
 
@@ -212,6 +213,13 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 <br>
 
 >[Demo](https://ik-web.github.io/game-frogger/)
+<br>
 >[Code base](https://github.com/ik-web/game-frogger)
+
+<hr>
+
+## <a name="post-oop">OOP exercise</a>
+
+
 
 <hr>
