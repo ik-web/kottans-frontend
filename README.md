@@ -19,6 +19,13 @@
 - [14. Website Performance Optimization](#website-optimization)
 - [15. Friends App](#friends-app)
 
+**Stage 1**
+
+- [1. W3C and WHATWG Standards. HTML markup. CSS, Grids](#lecture-1)
+- [2. Graphics, А11Y and forms, work with content](#lecture-2)
+- [3. Introducing the Internet](#lecture-3)
+- [4. DOM and Layout Trees](#lecture-4)
+
 <hr>
 
 ## <a name="git">Git Basics</a>
@@ -262,3 +269,29 @@ It was a good educational project. It helped me better understand how to work wi
 </details>
 
 [Demo](https://ik-web.github.io/friends-app/) | [Code-base](https://github.com/ik-web/friends-app)
+
+<hr>
+
+## <a name="lecture-1">W3C and WHATWG Standards. HTML markup. CSS, Grids</a>
+
+
+
+<hr>
+
+## <a name="lecture-2">Graphics, А11Y and forms, work with content</a>
+
+
+
+<hr>
+
+## <a name="lecture-3">Introducing the Internet</a>
+
+
+
+<hr>
+
+## <a name="lecture-4">DOM and Layout Trees</a>
+
+
+
+<hr>
