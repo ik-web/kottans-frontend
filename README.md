@@ -11,6 +11,7 @@
 - [9. Building a Tiny JS World (pre-OOP)](#pre-oop)
 - [10. Object Oriented JS](#oop)
 - [11. OOP exercise](#post-oop)
+- [13. Memory - Pair Game](#memory-pair-game)
 
 <hr>
 
@@ -221,3 +222,13 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 
 
 <hr>
+
+## <a name="memory-pair-game">Memory - Pair Game</a>
+That was a really interesting project. It wasn't simple for me but it helped me to understand  much better how javascript works.
+<details>
+<summary>Memory - Pair Game (<b>screenshots</b>)</summary>
+  
+  ![game_screenshot](memory-pair-game/memory-pair-game.jpg)<br>
+</details>
+
+[Demo](https://ik-web.github.io/memory-pair-game/) | [Code-base](https://github.com/ik-web/memory-pair-game)
