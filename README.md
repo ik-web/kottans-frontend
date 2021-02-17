@@ -12,6 +12,7 @@
 - [10. Object Oriented JS](#oop)
 - [11. OOP exercise](#post-oop)
 - [13. Memory - Pair Game](#memory-pair-game)
+- [15. Friends App](#friends-app)
 
 <hr>
 
@@ -232,3 +233,15 @@ That was a really interesting project. It wasn't simple for me but it helped me 
 </details>
 
 [Demo](https://ik-web.github.io/memory-pair-game/) | [Code-base](https://github.com/ik-web/memory-pair-game)
+
+<hr>
+
+## <a name="friends-app">Friends App</a>
+It was a good educational project. It helped me better understand how to work with asynchronous javascript and I got more experience for working with forms and data filters. I want to thank my mentors for these materials. Thanks a lot!
+<details>
+<summary>Friends App (<b>screenshots</b>)</summary>
+  
+  ![app_screenshot](friends-app/friends-app.jpg)<br>
+</details>
+
+[Demo](https://ik-web.github.io/friends-app/) | [Code-base](https://github.com/ik-web/friends-app)
