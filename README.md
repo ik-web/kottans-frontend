@@ -1,5 +1,8 @@
 # kottans-frontend
 #### My progress in kottans course:
+
+**Stage 0**
+
 - [1. Git Basics](#git)
 - [2. Linux CLI, and HTTP](#linux_http)
 - [3. Git Collaboration](#git_collaboration)
