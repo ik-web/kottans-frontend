@@ -236,7 +236,7 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 **Practical task:**
 
 <details>
-<summary>Codewars (<b>screenshots</b>)</summary>
+<summary>Arcade Game - Frogger (<b>screenshots</b>)</summary>
   
   ![js_screenshot-4](task_js_oop/frogger.jpg)<br>
 </details>
