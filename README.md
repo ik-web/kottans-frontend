@@ -151,6 +151,7 @@ It was an interesting task, I had not yet faced such a task. I was pleased that 
   ![popup_screenshot](task_html_css_practice/popup.jpg)<br>
 </details>
 
+**Practical task:**
 >[Demo](https://ik-web.github.io/html-css-popup/)
 
 <hr>
@@ -223,9 +224,7 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
   ![js_screenshot-3](task_js_oop/codewars.jpg)<br>
 </details>
 
-**Practical task:**<br>
-<br>
-
+**Practical task:**
 >[Demo](https://ik-web.github.io/game-frogger/) | [Code-base](https://github.com/ik-web/game-frogger)
 
 <hr>
@@ -244,6 +243,9 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 
 ## <a name="memory-pair-game">Memory - Pair Game</a>
 That was a really interesting project. It wasn't simple for me but it helped me to understand  much better how javascript works.
+
+**Practical task:**
+
 <details>
 <summary>Memory - Pair Game (<b>screenshots</b>)</summary>
   
@@ -262,6 +264,9 @@ That was a really interesting project. It wasn't simple for me but it helped me 
 
 ## <a name="friends-app">Friends App</a>
 It was a good educational project. It helped me better understand how to work with asynchronous javascript and I got more experience for working with forms and data filters. I want to thank my mentors for these materials. Thanks a lot!
+
+**Practical task:**
+
 <details>
 <summary>Friends App (<b>screenshots</b>)</summary>
   
@@ -273,7 +278,8 @@ It was a good educational project. It helped me better understand how to work wi
 <hr>
 
 ## <a name="lecture-1">W3C and WHATWG Standards. HTML markup. CSS, Grids</a>
-After watching a [lecture](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=37s) on this topic, I repeated and consolidated my knowledge of the semantics of HTML better, I got good advice on page layout. Refreshed knowledge on CSS, selector nuances, Tables, Float, Flex, Grid. <br>
+After watching a [lecture](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=37s) on this topic, I repeated and consolidated my knowledge of the semantics of HTML better, I got good advice on page layout. Refreshed knowledge on CSS, selector nuances, Tables, Float, Flex, Grid.
+
 There is also provided useful links to resources such as:
 
 - [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_upload)
@@ -286,8 +292,8 @@ There is also provided useful links to resources such as:
 - [CSS Grid Course! Welcome — 1 of 25 - YouTube](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)<br>
 
-**Practical task:**<br>
-<br>
+**Practical task:**
+
 <details>
 <summary>Movie seats booking (<b>screenshots</b>)</summary>
   
