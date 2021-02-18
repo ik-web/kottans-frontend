@@ -273,7 +273,28 @@ It was a good educational project. It helped me better understand how to work wi
 <hr>
 
 ## <a name="lecture-1">W3C and WHATWG Standards. HTML markup. CSS, Grids</a>
+After watching a [lecture](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=37s) on this topic, I repeated and consolidated my knowledge of the semantics of HTML better, I got good advice on page layout. Refreshed knowledge on CSS, selector nuances, Tables, Float, Flex, Grid. <br>
+There is also provided useful links to resources such as:
 
+- [The W3C Markup Validation Service](https://validator.w3.org/#validate_by_upload)
+- [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
+- [HTML tree generator](https://yoksel.github.io/html-tree/)
+- [Words commonly used in CSS classes](https://github.com/yoksel/common-words/)
+- [Awesome and unknown inline-block](https://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
+- [When do you use inline-block? | CSS-Tricks](https://css-tricks.com/when-do-you-use-inline-block/)
+- [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Grid Course! Welcome — 1 of 25 - YouTube](https://www.youtube.com/watch?v=T-slCsOrLcc&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&ab_channel=WesBos)
+- [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)<br>
+
+**Practical task:**<br>
+<br>
+<details>
+<summary>Movie seats booking (<b>screenshots</b>)</summary>
+  
+  ![movie-seat-booking_screenshot](movie-seat-booking/movie-seat-booking.jpg)<br>
+</details>
+
+>[Demo](https://ik-web.github.io/html-movie-seat-booking/) | [Code-base](https://github.com/ik-web/html-movie-seat-booking)
 
 
 <hr>
