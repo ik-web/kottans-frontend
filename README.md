@@ -139,11 +139,13 @@ I already knew a little about CSS Flexbox. I liked [Flexbox Froggy](http://flexb
   ![responsive_screenshot-1](task_responsive_web_design/responsive_udacity-1.jpg)<br><br>
   ![responsive_screenshot-2](task_responsive_web_design/responsive_udacity-2.jpg)<br> 
 </details>
-HTML & CSS Practice
+
 <hr>
 
 ## <a name="popup">HTML & CSS practice: Hooli-style Popup</a>
 It was an interesting task, I had not yet faced such a task. I was pleased that many different SCC properties had to be used in this task. A very interesting use of a checkbox.
+
+**Practical task:**
 
 <details>
 <summary>Hooli-style Popup (<b>screenshots</b>)</summary>
@@ -151,8 +153,7 @@ It was an interesting task, I had not yet faced such a task. I was pleased that 
   ![popup_screenshot](task_html_css_practice/popup.jpg)<br>
 </details>
 
-**Practical task:**
->[Demo](https://ik-web.github.io/html-css-popup/)
+>[Demo](https://ik-web.github.io/html-css-popup/) | [Code-base](https://github.com/ik-web/html-css-popup)
 
 <hr>
 
@@ -194,9 +195,17 @@ This was a very interesting topic. I learned a lot of new information. I made my
   ![dom_screenshot-3](task_js_dom/js-dom-fcc.jpg)<br> 
 </details>
 
-**Practical task:**<br>
-It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.<br>
->[Demo](https://ik-web.github.io/js-dom/)
+**Practical task:**
+
+It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.
+
+<details>
+<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshots</b>)</summary>
+  
+  ![dom_screenshot-4](task_js_dom/js-dom-practice.jpg)<br> 
+</details>
+
+>[Demo](https://ik-web.github.io/js-dom/) | [Code-base](https://github.com/ik-web/js-dom)
 
 <hr>
 
@@ -225,6 +234,12 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 </details>
 
 **Practical task:**
+
+<summary>Codewars (<b>screenshots</b>)</summary>
+  
+  ![js_screenshot-4](task_js_oop/frogger.jpg)<br>
+</details>
+
 >[Demo](https://ik-web.github.io/game-frogger/) | [Code-base](https://github.com/ik-web/game-frogger)
 
 <hr>
