@@ -348,13 +348,13 @@ About content (it was new for me):
 - The [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap) CSS property applies to inline elements, setting whether the browser should insert line breaks within an otherwise unbreakable string to prevent text from overflowing its line box.
 - The [hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens) CSS property specifies how words should be hyphenated when text wraps across multiple lines.
 - Text truncation with trailing ellipsis (oneline):
-> `white-space: nowrap;`
-> `overflow: hidden;`
+> `white-space: nowrap;`<br>
+> `overflow: hidden;`<br>
 > `text-overflow: ellipsis;`
 - Text truncation with trailing ellipsis (multiple) !!!Don't work with IE!!!:
-> `display: -webkit-box;`
-> `-webkit-line-clamp: 3;`
-> `-webkit-box-orient: vertical;`
+> `display: -webkit-box;`<br>
+> `-webkit-line-clamp: 3;`<br>
+> `-webkit-box-orient: vertical;`<br>
 > `overflow: hidden;`
 
 Othet useful materials of this topic:
