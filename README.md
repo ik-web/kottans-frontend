@@ -294,7 +294,7 @@ It was a good educational project. It helped me better understand how to work wi
 <hr>
 
 ## <a name="lecture-1">W3C and WHATWG Standards. HTML markup. CSS, Grids</a>
-After watching a [lecture](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=37s) on this topic, I repeated and consolidated my knowledge of the semantics of HTML better, I got good advice on page layout. Refreshed knowledge on CSS, selector nuances, Tables, Float, Flex, Grid.
+After watching a [lecture](https://www.youtube.com/watch?v=xogSwtgiEJ0&t=37s) on this topic, I repeated and consolidated my knowledge of the semantics of HTML better, I got the good advice on page layout. Refreshed knowledge on CSS, selector nuances, Tables, Float, Flex, Grid.
 
 There is also provided useful links to resources such as:
 
@@ -322,8 +322,47 @@ There is also provided useful links to resources such as:
 <hr>
 
 ## <a name="lecture-2">Graphics, А11Y and forms, work with content</a>
+I watched [a lecture on this topic](https://www.youtube.com/watch?v=7Q7jEa5h3FY). There was a lot of interesting and useful material.
 
+I wrote some notes on the graphics:
 
+- For decorative graphics it is better to use the `.svg` image format, for content graphics `.avif`.
+- The attribute [srcset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset) - a comma-separated list of one or more image candidate strings to be used when determining which image resource to present inside the `<img>` element.
+- The [<picture>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) tag contains zero or more `<source>` elements and one `<img>` element to offer alternative versions of an image for different display/device scenarios.
+- The `<img>` tag has an interesting attribute [loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) with a value `lazy`, but you need to be careful with it, it doesn't work well on large screens.
+- To prevent the form from being submitted when the `<button>` is clicked, it is important to specify type = "button".
+
+Useful links about accessibility:
+
+- [W3C Accessibility Guidelines (WCAG) 3.0](https://www.w3.org/TR/wcag-3.0/)
+- [WCAG 3 How-Tos | How-To | WCAG 3 | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/GL/WCAG3/2020/how-tos/)
+- [tabindex - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-us/docs/Web/HTML/Global_attributes/tabindex)
+- [How to help the blind on your site](https://weblind.ru/)
+- [Inclusive Components](https://inclusive-components.design/)
+- [Using ARIA](https://www.w3.org/TR/using-aria/#NOTES)
+- [Using ARIA: Roles, states, and properties - Accessibility | MDN](https://developer.mozilla.org/en-us/docs/Web/Accessibility/ARIA/ARIA_Techniques)
+- [WAI-ARIA Authoring Practices 1.2](https://w3c.github.io/aria-practices/)
+
+About content (it was new for me):
+
+- The [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap) CSS property applies to inline elements, setting whether the browser should insert line breaks within an otherwise unbreakable string to prevent text from overflowing its line box.
+- The [hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens) CSS property specifies how words should be hyphenated when text wraps across multiple lines.
+- Text truncation with trailing ellipsis (oneline):
+> `white-space: nowrap;`
+> `overflow: hidden;`
+> `text-overflow: ellipsis;`
+- Text truncation with trailing ellipsis (multiple) !!!Don't work with IE!!!:
+> `display: -webkit-box;`
+> `-webkit-line-clamp: 3;`
+> `-webkit-box-orient: vertical;`
+> `overflow: hidden;`
+
+Othet useful materials of this topic:
+
+- [Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/)
+- [A multidisciplinary designer with an eye for details.](https://ishadeed.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Digest of fresh materials from the frontend world](https://habr.com/ru/post/538972/)
 
 <hr>
 
