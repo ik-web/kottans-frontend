@@ -367,8 +367,23 @@ Othet useful materials of this topic:
 <hr>
 
 ## <a name="lecture-3">Introducing the Internet</a>
+I watched an interesting [lecture on this topic](https://www.youtube.com/watch?v=0l7ikOmdGGQ&t=3097s). I refreshed my knowledge, and also I got new ones:
 
+> Difference between IPv4 and IPv6<br>
+> To find the DNS note, the browser checks 4 caches (1.Browser cache; 2.OS cache; 3.Router cache; 4.provider cache).<br>
+> TCP is used wherever accurate and verifiable data transmission is required - for example, to send photos or communicate between users. UDP, in turn, is required for communication in voice format or when transmitting streaming video, for example, from webcams or IP cameras.<br>
+> I learned more about SSL/TLS<br>
+> I learned more about cookies. Their advantages and disadvantages.<br>
 
+Useful materials:
+
+- [Networking for Web Developers - Udacity](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [How HTTP works](https://howhttps.works/episodes/)
+- [How DNS works](https://howdns.works/)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Kontra OWASP Top 10 for Web](https://application.security/free/owasp-top-10)
+- [Roman Yakobchuk - A tale of one request. How Internet works under the hood](https://www.youtube.com/watch?app=desktop&v=uXXdYCd93F8&list=PLnkLrCUX4Qh4RH-BltBk03Eet1UAF-S7S&index=4)
+- [SSL/TLS and HTTPS](https://www.hostinger.com.ua/rukovodstva/shto-takoe-ssl-tls-i-https/)
 
 <hr>
 
