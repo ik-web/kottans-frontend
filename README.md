@@ -246,8 +246,12 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 <hr>
 
 ## <a name="post-oop">OOP exercise</a>
+It was a good task. It's not big, but useful to me. I learned better how to work with javascript classes. When I learned the theory, everything seemed to understanding, but then some of what I learned flew out of my head. But after completing the practical task, the material took root better.
 
+They also provided [useful materials on this topic](https://github.com/ik-web/a-tiny-JS-world#leveling-your-skills-up), for which I am very grateful to my mentors.
 
+**Practical task:**
+>[A Tiny JS World](https://ik-web.github.io/a-tiny-JS-world/) | [Code-base](https://github.com/ik-web/a-tiny-JS-world/blob/master/index.js)
 
 <hr>
 
