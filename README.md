@@ -369,11 +369,11 @@ Othet useful materials of this topic:
 ## <a name="lecture-3">Introducing the Internet</a>
 I watched an interesting [lecture on this topic](https://www.youtube.com/watch?v=0l7ikOmdGGQ&t=3097s). I refreshed my knowledge, and also I got new ones:
 
-> Difference between IPv4 and IPv6<br>
-> To find the DNS note, the browser checks 4 caches (1.Browser cache; 2.OS cache; 3.Router cache; 4.provider cache).<br>
-> TCP is used wherever accurate and verifiable data transmission is required - for example, to send photos or communicate between users. UDP, in turn, is required for communication in voice format or when transmitting streaming video, for example, from webcams or IP cameras.<br>
-> I learned more about SSL/TLS<br>
-> I learned more about cookies. Their advantages and disadvantages.<br>
+- Difference between IPv4 and IPv6<br>
+- To find the DNS note, the browser checks 4 caches (1.Browser cache; 2.OS cache; 3.Router cache; 4.provider cache).<br>
+- TCP is used wherever accurate and verifiable data transmission is required - for example, to send photos or communicate between users. UDP, in turn, is required for communication in voice format or when transmitting streaming video, for example, from webcams or IP cameras.<br>
+- I learned more about SSL/TLS<br>
+- I learned more about cookies. Their advantages and disadvantages.<br>
 
 Useful materials:
 
@@ -388,7 +388,19 @@ Useful materials:
 <hr>
 
 ## <a name="lecture-4">DOM and Layout Trees</a>
+I was in the lecture on the DOM ([part-1](https://www.youtube.com/watch?v=7xy--CqvcDk), [part-2](https://www.youtube.com/watch?v=sSLSp7uz3Mo&t=1478s)). It was interesting, I repeated and consolidated the material on this topic, which was very useful to me!
 
+- I got a better understanding the [preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault), [stopPropagation](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation) and [stopImmediatePropagation](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopImmediatePropagation) methods.
+- I understood what is the difference between an [HTMLCollection](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection) and a [NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList).
 
+**Practical task:**
+
+<details>
+<summary>Movie seats booking (using DOM) (<b>screenshots</b>)</summary>
+  
+  ![movie-seat-booking-js_screenshot](movie-seat-booking-js/movie-seat-booking-js.jpg)<br>
+</details>
+
+>[Demo]() | [Code-base]()
 
 <hr>
