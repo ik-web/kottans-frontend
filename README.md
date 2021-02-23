@@ -84,7 +84,7 @@ HTTP protocol: [part-1](https://code.tutsplus.com/tutorials/http-the-protocol-ev
 I liked [this topic](https://classroom.udacity.com/courses/ud456) of this course. I learned how collaborate in git with other developers. I also learned to create forks and pull requests. I figured out in more detail the `rebase` and `cherry-pick`. I also repeated what I already knew, which I also find very useful.
 
 <details>
-<summary>GitHub & Collaboration (<b>screenshots</b>)</summary>
+<summary>GitHub & Collaboration (<b>screenshot</b>)</summary>
   
   ![git_collaboration_screenshot-1](task_git_collaboration/github_collaboration_udacity.jpg)<br>
 </details>
@@ -129,7 +129,7 @@ I liked the [Responsive Web Design Fundamentals course](https://www.udacity.com/
 I already knew a little about CSS Flexbox. I liked [Flexbox Froggy](http://flexboxfroggy.com/), it is easier to understand how CSS Flexbox works. When I played this game, I remembered properties like `align-content`, `flex-flow`, `row-reverse`, and `column-reverse`.
 
 <details>
-<summary>Flexbox Froggy (<b>screenshots</b>)</summary>
+<summary>Flexbox Froggy (<b>screenshot</b>)</summary>
   
   ![froggy_screenshot](task_responsive_web_design/froggy.jpg)<br>
 </details>
@@ -148,7 +148,7 @@ It was an interesting task, I had not yet faced such a task. I was pleased that 
 **Practical task:**
 
 <details>
-<summary>Hooli-style Popup (<b>screenshots</b>)</summary>
+<summary>Hooli-style Popup (<b>screenshot</b>)</summary>
   
   ![popup_screenshot](task_html_css_practice/popup.jpg)<br>
 </details>
@@ -190,7 +190,7 @@ This was a very interesting topic. I learned a lot of new information. I made my
   ![dom_screenshot-2](task_js_dom/js-dom-udacity-2.jpg)<br>
 </details>
 <details>
-<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshots</b>)</summary>
+<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshot</b>)</summary>
   
   ![dom_screenshot-3](task_js_dom/js-dom-fcc.jpg)<br> 
 </details>
@@ -200,7 +200,7 @@ This was a very interesting topic. I learned a lot of new information. I made my
 It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.
 
 <details>
-<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshots</b>)</summary>
+<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshot</b>)</summary>
   
   ![dom_screenshot-4](task_js_dom/js-dom-practice.jpg)<br> 
 </details>
@@ -228,7 +228,7 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
   ![js_screenshot-3](task_js_oop/oop-js-4.jpg)<br>
 </details>
 <details>
-<summary>Codewars (<b>screenshots</b>)</summary>
+<summary>Codewars (<b>screenshot</b>)</summary>
   
   ![js_screenshot-3](task_js_oop/codewars.jpg)<br>
 </details>
@@ -236,7 +236,7 @@ The topic is still quite difficult for me, but thanks to [this course](https://c
 **Practical task:**
 
 <details>
-<summary>Arcade Game - Frogger (<b>screenshots</b>)</summary>
+<summary>Arcade Game - Frogger (<b>screenshot</b>)</summary>
   
   ![js_screenshot-4](task_js_oop/frogger.jpg)<br>
 </details>
@@ -267,7 +267,7 @@ That was a really interesting project. It wasn't simple for me but it helped me 
 **Practical task:**
 
 <details>
-<summary>Memory - Pair Game (<b>screenshots</b>)</summary>
+<summary>Memory - Pair Game (<b>screenshot</b>)</summary>
   
   ![game_screenshot](memory-pair-game/memory-pair-game.jpg)<br>
 </details>
@@ -288,7 +288,7 @@ It was a good educational project. It helped me better understand how to work wi
 **Practical task:**
 
 <details>
-<summary>Friends App (<b>screenshots</b>)</summary>
+<summary>Friends App (<b>screenshot</b>)</summary>
   
   ![app_screenshot](friends-app/friends-app.jpg)<br>
 </details>
@@ -315,7 +315,7 @@ There is also provided useful links to resources such as:
 **Practical task:**
 
 <details>
-<summary>Movie seats booking (<b>screenshots</b>)</summary>
+<summary>Movie seats booking (<b>screenshot</b>)</summary>
   
   ![movie-seat-booking_screenshot](movie-seat-booking/movie-seat-booking.jpg)<br>
 </details>
@@ -400,7 +400,7 @@ I was in the lecture on the DOM ([part-1](https://www.youtube.com/watch?v=7xy--C
 **Practical task:**
 
 <details>
-<summary>Movie seats booking (using DOM) (<b>screenshots</b>)</summary>
+<summary>Movie seats booking (using DOM) (<b>screenshot</b>)</summary>
   
   ![movie-seat-booking-js_screenshot](movie-seat-booking-js/movie-seat-booking-js.jpg)<br>
 </details>
