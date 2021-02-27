@@ -200,7 +200,7 @@ This was a very interesting topic. I learned a lot of new information. I made my
 It was a very interesting practical task for me. I am also very grateful to the mentor who reviewed my work, as this person helped me a lot to understand this topic in more detail.
 
 <details>
-<summary>freecodecamp Algorithm Scripting Challenges (<b>screenshot</b>)</summary>
+<summary>Practical work (using DOM) (<b>screenshot</b>)</summary>
   
   ![dom_screenshot-4](task_js_dom/js-dom-practice.jpg)<br> 
 </details>
@@ -405,6 +405,6 @@ I was in the lecture on the DOM ([part-1](https://www.youtube.com/watch?v=7xy--C
   ![movie-seat-booking-js_screenshot](movie-seat-booking-js/movie-seat-booking-js.jpg)<br>
 </details>
 
->[Demo]() | [Code-base]()
+>[Demo](https://ik-web.github.io/movie-seat-booking-js/) | [Code-base](https://github.com/ik-web/movie-seat-booking-js)
 
 <hr>
