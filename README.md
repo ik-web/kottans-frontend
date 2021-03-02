@@ -23,8 +23,10 @@
 
 - [1. W3C and WHATWG Standards. HTML markup. CSS, Grids](#lecture-1)
 - [2. Graphics, А11Y and forms, work with content](#lecture-2)
-- [3. Introducing the Internet](#lecture-3)
+- [3. Introducing the Internet, how browser works, cookie](#lecture-3)
 - [4. DOM and Layout Trees](#lecture-4)
+- [5. Scope, Closure (YDKJS)](#lecture-5)
+- [6. Objects & this (YDKJS)](#lecture-6)
 
 <hr>
 
@@ -370,7 +372,7 @@ Othet useful materials of this topic:
 
 <hr>
 
-## <a name="lecture-3">Introducing the Internet</a>
+## <a name="lecture-3">Introducing the Internet, how browser works, cookie</a>
 I watched an interesting [lecture on this topic](https://www.youtube.com/watch?v=0l7ikOmdGGQ&t=3097s). I refreshed my knowledge, and also I got new ones:
 
 - Difference between IPv4 and IPv6<br>
@@ -406,5 +408,50 @@ I was in the lecture on the DOM ([part-1](https://www.youtube.com/watch?v=7xy--C
 </details>
 
 >[Demo](https://ik-web.github.io/movie-seat-booking-js/) | [Code-base](https://github.com/ik-web/movie-seat-booking-js)
+
+<hr>
+
+## <a name="lecture-5">Scope, Closure (YDKJS)</a>
+I read the book ["You Don't Know Javascript - Scope & Closures"](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures). And also participated in the AMA session on this topic. I expanded my knowledge of closures and scopes. But I want to say that the book was difficult for me in understanding some points ... So I will definitely return to it and re-read it again.
+
+Short useful videos on this topic:
+
+- [Scope](https://www.youtube.com/watch?v=ft_8tuRj9CE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=6)
+- [Execution context](https://www.youtube.com/watch?v=b52XdijI2ns&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=7)
+- [Hoisting](https://www.youtube.com/watch?v=0Vb_Sse3xak&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=8)
+- [Closure](https://www.youtube.com/watch?v=PIFGtdLgwi4&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=9)
+
+Useful materials:
+
+- [Lecture 1 - Scope & Closures (YDKJS)](https://www.notion.so/1-9a83cb1f515a453982bb3cd20dcd33b0#1b26a89b249845bfbee5d1ea2fe1213a)
+- [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+
+Noted some points:
+
+>
+>
+>
+>
+>
+
+<hr>
+
+## <a name="lecture-6">Objects & this (YDKJS)</a>
+Watched a great [lecture](https://www.youtube.com/watch?v=CuEErkIQP5c&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=15) on this topic. I repeated the material, understood the descriptors better, and also familiarized myself with "this" in more detail. I read the book [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) - chapter 1, 2, 3. That's a good book, many useful explanations, but like the previous part "Scope & Closures", the book was difficult for me, I will reread it.
+
+Short useful videos on this topic:
+
+- [Object props](https://www.youtube.com/watch?v=mIXdx7hSwIk&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=11)
+- [Property descriptors](https://www.youtube.com/watch?v=1CNa1_tfS5U&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=12)
+- [Object creation](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
+- [](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
+
+Noted some points:
+
+>
+>
+>
+>
+>
 
 <hr>
