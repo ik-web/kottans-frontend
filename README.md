@@ -444,7 +444,7 @@ Short useful videos on this topic:
 - [Object props](https://www.youtube.com/watch?v=mIXdx7hSwIk&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=11)
 - [Property descriptors](https://www.youtube.com/watch?v=1CNa1_tfS5U&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=12)
 - [Object creation](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
-- [](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
+- [This & execution context](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
 
 Noted some points:
 
