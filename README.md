@@ -27,6 +27,12 @@
 - [4. DOM and Layout Trees](#lecture-4)
 - [5. Scope & Closures (YDKJS)](#lecture-5)
 - [6. Objects & this (YDKJS)](#lecture-6)
+- [7. Prototype (YDKJS)](#lecture-7) 
+- [8. Types Grammar (YDKJS)](#lecture-8)
+- [9. Callback/Promise (YDKJS)](#lecture-9)
+- [10. Async/Await (YDKJS)](#lecture-10)
+- [11. ESNext API/Generators (YDKJS)](#lecture-11)
+- [12. App architecture building, business processes (Framework)](#lecture-12)
 
 <hr>
 
@@ -438,5 +444,35 @@ Useful videos on this topic:
 - [Object creation](https://www.youtube.com/watch?v=KJYW-TTrJxE&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=13)
 - [This & execution context](https://www.youtube.com/watch?v=gsd2RE7lP00&list=PLS8sEUxbfFY_eoMYj8tifTn83xv_VgnSd&index=14)
 - [Objects & this - AMA session](https://www.youtube.com/watch?v=MWMd1vafvR4&feature=youtu.be)
+
+<hr>
+
+## <a name="lecture-7">Prototype (YDKJS)</a>
+
+
+<hr>
+
+## <a name="lecture-8">Types Grammar (YDKJS)</a>
+
+
+<hr>
+
+## <a name="lecture-9">Callback/Promise (YDKJS)</a>
+
+
+<hr>
+
+## <a name="lecture-10">Async/Await (YDKJS)</a>
+
+
+<hr>
+
+## <a name="lecture-11">ESNext API/Generators (YDKJS)</a>
+
+
+<hr>
+
+## <a name="lecture-12">App architecture building, business processes (Framework)</a>
+
 
 <hr>
