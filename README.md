@@ -25,16 +25,16 @@ I already knew a little about git. The [Udacity course](https://www.udacity.com/
 I keep to myself [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/).
 
 P.S.
-Before you can start using Git, you need to configure it. Run each of the following lines on the command line to make sure everything is set up.<br>
-#### sets up Git with your name<br>
-git config --global user.name "<Your-Full-Name>"<br><br>
-#### sets up Git with your email<br>
-git config --global user.email "<your-email-address>"<br><br>
-#### makes sure that Git output is colored<br>
-git config --global color.ui auto<br><br>
-#### displays the original state in a conflict<br>
-git config --global merge.conflictstyle diff3<br>
-git config --list<br>
+Before you can start using Git, you need to configure it. Run each of the following lines on the command line to make sure everything is set up.
+#### sets up Git with your name
+git config --global user.name "<Your-Full-Name>"<br>
+#### sets up Git with your email
+git config --global user.email "<your-email-address>"<br>
+#### makes sure that Git output is colored
+git config --global color.ui auto<br>
+#### displays the original state in a conflict
+git config --global merge.conflictstyle diff3
+git config --list<br><br>
 
 
 <details>
