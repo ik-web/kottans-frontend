@@ -33,7 +33,7 @@ Before you can start using Git, you need to configure it. Run each of the follow
 #### makes sure that Git output is colored
 `git config --global color.ui auto`
 #### displays the original state in a conflict
-`git config --global merge.conflictstyle diff3`
+`git config --global merge.conflictstyle diff3`<br>
 `git config --list`<br><br>
 
 
