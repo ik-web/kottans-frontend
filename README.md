@@ -27,14 +27,14 @@ I keep to myself [Udacity Git Commit Message Style Guide](https://udacity.github
 P.S.
 Before you can start using Git, you need to configure it. Run each of the following lines on the command line to make sure everything is set up.
 #### sets up Git with your name
-git config --global user.name "<Your-Full-Name>"<br>
+`git config --global user.name "<Your-Full-Name>"`
 #### sets up Git with your email
-git config --global user.email "<your-email-address>"<br>
+`git config --global user.email "<your-email-address>"`
 #### makes sure that Git output is colored
-git config --global color.ui auto<br>
+`git config --global color.ui auto`
 #### displays the original state in a conflict
-git config --global merge.conflictstyle diff3
-git config --list<br><br>
+`git config --global merge.conflictstyle diff3`
+`git config --list`<br><br>
 
 
 <details>
