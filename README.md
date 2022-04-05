@@ -35,7 +35,7 @@ Before you can start using Git, you need to configure it. Run each of the follow
 #### displays the original state in a conflict
 `git config --global merge.conflictstyle diff3`<br>
 `git config --list`
-### VSCode Setup
+#### VScode setup
 `git config --global core.editor "code --wait"`<br><br>
 
 
